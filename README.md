@@ -1,13 +1,13 @@
 ![Masterhead](https://www.adobe.com/express/create/banner/media_1d475ea237f3632359c1538d48da93b1deff5ed7e.png?width=1200&format=pjpg&optimize=medium)
-<h1 align="center">Hi 👋🏿, I'm Jerrica Jackson</h1>
-<h3 align="center">A passionate Software Engineer from Frisco, TX.</h3>
+<h3 align="center">Hi 👋🏾, I'm Jerrica Jackson</h3>
+<h5 align="center">A passionate Software Engineer from Frisco, TX.</h5>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/l0EoAMuZEZg1T5fS8/giphy.gif?cid=790b76110a3cd704de75ff791083b6418c260ea18aaaaebd&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrica1&label=Profile%20views&color=0e75b6&style=flat" alt="jerrica1" /> </p>
 
 <p align="left"> <a href="https://twitter.com/gvaldiiii" target="blank"><img src="https://img.shields.io/twitter/follow/gvaldiiii?logo=twitter&style=for-the-badge" alt="gvaldiiii" /></a> </p>
 
-- 🔭 I’m currently working on **a Revenue Recovery System**
+- 🔭 I’m currently working on a **Revenue Recovery System**
 
 - 🌱 I’m currently learning **Python, JavaScript, and ReactJS.**
 
@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1wfE1mQUxzfi5nMhJ0JZlU6odlM0P9ssZHRZ4g7t6E44/edit](https://docs.google.com/document/d/1wfE1mQUxzfi5nMhJ0JZlU6odlM0P9ssZHRZ4g7t6E44/edit)
 
-- ⚡ Fun fact **I love art and exotic travels.**
+- ⚡ Fun fact **I love art and international travel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
