@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **jerricajackson93@outlook.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1wfE1mQUxzfi5nMhJ0JZlU6odlM0P9ssZHRZ4g7t6E44/edit](https://docs.google.com/document/d/1wfE1mQUxzfi5nMhJ0JZlU6odlM0P9ssZHRZ4g7t6E44/edit)
+- 📄 Check out my experience [https://docs.google.com/document/d/1wfE1mQUxzfi5nMhJ0JZlU6odlM0P9ssZHRZ4g7t6E44/edit](https://docs.google.com/document/d/1wfE1mQUxzfi5nMhJ0JZlU6odlM0P9ssZHRZ4g7t6E44/edit)
 
 - ⚡ Fun fact **I love art and international travel.**
 
