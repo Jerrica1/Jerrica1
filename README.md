@@ -35,3 +35,16 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jerrica1&show_icons=true&locale=en" alt="jerrica1" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jerrica1&" alt="jerrica1" /></p>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Jerrica1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Jerrica1&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Jerrica1&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+## 🐦 Latest Tweet
+[![](https://gtce.itsvg.in/api?username=https://twitter.com/gvaldiiii)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Jerrica1&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
