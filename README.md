@@ -3,6 +3,8 @@
 <h5 align="center">A passionate Software Engineer from Frisco, TX.</h5>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/l0EoAMuZEZg1T5fS8/giphy.gif?cid=790b76110a3cd704de75ff791083b6418c260ea18aaaaebd&rid=giphy.gif&ct=g">
 
+---
+[![](https://visitcount.itsvg.in/api?id=Jerrica1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 - 🔭 I’m currently working on a **Building a Google Docs Clone with React, Material UI, & Firebase**
 
@@ -34,8 +36,5 @@
 
 ## 🐦 Latest Tweet
 [![](https://gtce.itsvg.in/api?username=https://twitter.com/gvaldiiii)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
-
----
-[![](https://visitcount.itsvg.in/api?id=Jerrica1&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
