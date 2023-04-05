@@ -6,18 +6,18 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jerrica1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Building a Google Docs Clone with React, Material UI, & Firebase**
+- 🔭 I’m currently working on **Building a Google Docs Clone with React, Material UI, & Firebase.**
 
 - 🌱 I’m currently learning **Python, JavaScript, and ReactJS.**
 
-- 💬 Ask me about **C#, C++, and Python**
+- 💬 Ask me about **C#, C++, and Python.**
 
-- 📫 How to reach me **jerricajackson93@outlook.com**
+- 📫 Enail me **jerricajackson93@outlook.com**
 
 - 📄 Check out my experience <a href="https://docs.google.com/document/d/1wfE1mQUxzfi5nMhJ0JZlU6odlM0P9ssZHRZ4g7t6E44/edit" title="Jerrica LinkedIn" rel="nofollow">Resume</a>
 
 
-- ⚡ Fun fact **I love art, exquisite dining, vintage fashion, and international travel.**
+- ⚡ Fun fact **I enjoy art, exquisite dining, vintage fashion, and international travel.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
