@@ -3,6 +3,7 @@
 <h5 align="center">A passionate Software Engineer from Frisco, TX.</h5>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/l0EoAMuZEZg1T5fS8/giphy.gif?cid=790b76110a3cd704de75ff791083b6418c260ea18aaaaebd&rid=giphy.gif&ct=g">
 
+
 - 🔭 I’m currently working on a **Revenue Recovery System**
 
 - 🌱 I’m currently learning **Python, JavaScript, and ReactJS.**
