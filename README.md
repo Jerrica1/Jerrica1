@@ -3,15 +3,11 @@
 <h5 align="center">A passionate Software Engineer from Frisco, TX.</h5>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/l0EoAMuZEZg1T5fS8/giphy.gif?cid=790b76110a3cd704de75ff791083b6418c260ea18aaaaebd&rid=giphy.gif&ct=g">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jerrica1&label=Profile%20views&color=0e75b6&style=flat" alt="jerrica1" /> </p>
-
-<p align="left"> <a href="https://twitter.com/gvaldiiii" target="blank"><img src="https://img.shields.io/twitter/follow/gvaldiiii?logo=twitter&style=for-the-badge" alt="gvaldiiii" /></a> </p>
-
 - 🔭 I’m currently working on a **Revenue Recovery System**
 
 - 🌱 I’m currently learning **Python, JavaScript, and ReactJS.**
 
-- 💬 Ask me about **React, Vue**
+- 💬 Ask me about **C#, C++, and Python**
 
 - 📫 How to reach me **jerricajackson93@outlook.com**
 
