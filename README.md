@@ -6,7 +6,7 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jerrica1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on a **Building a Google Docs Clone with React, Material UI, & Firebase**
+- 🔭 I’m currently working on **Building a Google Docs Clone with React, Material UI, & Firebase**
 
 - 🌱 I’m currently learning **Python, JavaScript, and ReactJS.**
 
