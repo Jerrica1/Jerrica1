@@ -6,11 +6,11 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=Jerrica1&icon=0&color=0)](https://visitcount.itsvg.in)
 
-- 🔭 I’m currently working on **Building a Google Docs Clone with React, Material UI, & Firebase.**
+- 🔭 I’m currently working on **Designing a scalable infrastructure to handle high volumes of data and implement real-time analytics.**
 
-- 🌱 I’m currently learning **Python, JavaScript, and ReactJS.**
+- 🌱 I’m currently learning **Cloud Security, Encryption Methods, and Compliance Frameworks.**
 
-- 💬 Ask me about **C#, C++, and Python.**
+- 💬 Ask me about **Cloud-native Application Development and Serverless Computing.**
 
 - 📫 Send me an email **jerricajackson93@outlook.com**
 
