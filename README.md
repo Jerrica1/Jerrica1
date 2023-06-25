@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Designing a scalable infrastructure to handle high volumes of data and implement real-time analytics.**
 
-- 🌱 I’m currently learning **Cloud Security, Encryption Methods, and Compliance Frameworks.**
+- 🌱 I’m also learning **Cloud Security, Encryption Methods, and Compliance Frameworks.**
 
-- 💬 Ask me about **Cloud-native Application Development and Serverless Computing.**
+- 💬 Feel free to ask me about **Cloud-native Application Development and Serverless Computing.**
 
 - 📫 Send me an email **jerricajackson93@outlook.com**
 
