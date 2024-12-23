@@ -15,8 +15,6 @@
 
 - 📫 Send me an email **jerricajackson93@outlook.com**
 
-- 📄 Check out my experience <a href="https://docs.google.com/document/d/1wfE1mQUxzfi5nMhJ0JZlU6odlM0P9ssZHRZ4g7t6E44/edit" title="Jerrica LinkedIn" rel="nofollow">Resume</a>
-
 
 - ⚡ Fun fact **I enjoy art, exquisite dining, vintage fashion, and international travel.**
 
